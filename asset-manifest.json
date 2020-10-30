@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-dash-health/static/css/main.ea5ef615.chunk.css",
+    "main.js": "/react-dash-health/static/js/main.ad837df3.chunk.js",
+    "main.js.map": "/react-dash-health/static/js/main.ad837df3.chunk.js.map",
+    "runtime-main.js": "/react-dash-health/static/js/runtime-main.cfb3361f.js",
+    "runtime-main.js.map": "/react-dash-health/static/js/runtime-main.cfb3361f.js.map",
+    "static/js/2.41a03d1c.chunk.js": "/react-dash-health/static/js/2.41a03d1c.chunk.js",
+    "static/js/2.41a03d1c.chunk.js.map": "/react-dash-health/static/js/2.41a03d1c.chunk.js.map",
+    "index.html": "/react-dash-health/index.html",
+    "precache-manifest.7994a7e59714446bd2af9e02e74dffd2.js": "/react-dash-health/precache-manifest.7994a7e59714446bd2af9e02e74dffd2.js",
+    "service-worker.js": "/react-dash-health/service-worker.js",
+    "static/css/main.ea5ef615.chunk.css.map": "/react-dash-health/static/css/main.ea5ef615.chunk.css.map",
+    "static/js/2.41a03d1c.chunk.js.LICENSE.txt": "/react-dash-health/static/js/2.41a03d1c.chunk.js.LICENSE.txt",
+    "static/media/countries.geojson": "/react-dash-health/static/media/countries.797c19eb.geojson",
+    "static/media/map_logo.png": "/react-dash-health/static/media/map_logo.12c13072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfb3361f.js",
+    "static/js/2.41a03d1c.chunk.js",
+    "static/css/main.ea5ef615.chunk.css",
+    "static/js/main.ad837df3.chunk.js"
+  ]
+}
