@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.App {
+    text-align: center;
+    direction: rtl;
+}
+
+.container {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardsUpper {
+    margin-bottom: 10px;
+}

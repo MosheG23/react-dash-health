@@ -1,0 +1,62 @@
+.country {
+    color: #000;
+    height: 50px;
+    width: 50px;
+    background: rgb(255, 0, 0);
+    border-radius: 50%;
+    border: #000 solid 1px;
+    padding: 10px;
+    /* padding-top: 100%; */
+    position: relative;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: scale(1);
+    transition: transform .3s ease-in-out;
+}
+
+.country:hover {
+    transform: scale(1.2);
+}
+
+.cluster_marker {
+    color: #000;
+    background: rgb(136, 255, 152);
+    border-radius: 50%;
+    border: #000 solid 1px;
+    padding: 10px;
+    /* padding-top: 100%;
+    position: relative; */
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.crime-marker {
+    background: none;
+    border: none;
+}
+
+.crime-marker img {
+    width: 25px;
+}
+
+.country_logo {
+    height: 12.5px;
+    width: 20px;
+    border: 0.5px solid black;
+}
+
+.map__title {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    color: #000;
+    z-index: 5;
+    margin: 0;
+    padding: 0;
+}

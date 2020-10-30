@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-dashboard-m/static/css/main.ea5ef615.chunk.css",
+    "main.js": "/react-dashboard-m/static/js/main.ad837df3.chunk.js",
+    "main.js.map": "/react-dashboard-m/static/js/main.ad837df3.chunk.js.map",
+    "runtime-main.js": "/react-dashboard-m/static/js/runtime-main.699730eb.js",
+    "runtime-main.js.map": "/react-dashboard-m/static/js/runtime-main.699730eb.js.map",
+    "static/js/2.41a03d1c.chunk.js": "/react-dashboard-m/static/js/2.41a03d1c.chunk.js",
+    "static/js/2.41a03d1c.chunk.js.map": "/react-dashboard-m/static/js/2.41a03d1c.chunk.js.map",
+    "index.html": "/react-dashboard-m/index.html",
+    "precache-manifest.3d464d360e7f0398a2a9ed569f6cf21c.js": "/react-dashboard-m/precache-manifest.3d464d360e7f0398a2a9ed569f6cf21c.js",
+    "service-worker.js": "/react-dashboard-m/service-worker.js",
+    "static/css/main.ea5ef615.chunk.css.map": "/react-dashboard-m/static/css/main.ea5ef615.chunk.css.map",
+    "static/js/2.41a03d1c.chunk.js.LICENSE.txt": "/react-dashboard-m/static/js/2.41a03d1c.chunk.js.LICENSE.txt",
+    "static/media/countries.geojson": "/react-dashboard-m/static/media/countries.797c19eb.geojson",
+    "static/media/map_logo.png": "/react-dashboard-m/static/media/map_logo.12c13072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699730eb.js",
+    "static/js/2.41a03d1c.chunk.js",
+    "static/css/main.ea5ef615.chunk.css",
+    "static/js/main.ad837df3.chunk.js"
+  ]
+}
